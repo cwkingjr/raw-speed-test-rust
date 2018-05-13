@@ -1,0 +1,6 @@
+[package]
+name = "raw-speed-test-rust"
+version = "0.1.0"
+authors = ["Chuck King <cwkingjr@gmail.com>"]
+
+[dependencies]
